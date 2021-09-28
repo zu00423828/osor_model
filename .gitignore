@@ -6,3 +6,5 @@
 *npz
 __pycache__
 checkpoint/
+runs*
+test*
